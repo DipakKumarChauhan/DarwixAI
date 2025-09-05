@@ -222,7 +222,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Add some example text
     const textInput = document.getElementById('textInput');
-    textInput.value = 'Hello, my name is Anuj. How are you today?';
+    textInput.value = 'Hello, my name is Dipak. How are you today?';
 });
 
 // Add some helpful keyboard shortcuts
